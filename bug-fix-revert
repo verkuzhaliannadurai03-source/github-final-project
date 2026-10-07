@@ -1,4 +1,4 @@
-Command:
+Command:curl.exe -L "https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/12199"
 {
   "url": "https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/12199",
   "id": 4774336319,
